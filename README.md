@@ -1,4 +1,4 @@
-# PROMPTLAR
+# PROMPTS
 1. Prompt:
 
 I'll create a stunning SaaS landing page with modern animations and comprehensive features. Let me start by creating the project structure and files.
